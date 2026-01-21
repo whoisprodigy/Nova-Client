@@ -46,6 +46,7 @@ Made with <3 by
 - [imnotkoolkid](https://github.com/imnotkoolkid)  
 - [akuma](https://github.com/KirkaMiddleMenScripts)  
 - [zenos](https://github.com/Dev-Zenos)
+- [whoisprodigy](https://github.com/whoisprodigy)
 
 ---
 
