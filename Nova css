@@ -104,7 +104,7 @@
 }
 
 #app>div.interface.text-2>div.background {
-    background: url('https://i.imgur.com/aCumtZr.png') center/cover no-repeat;
+    background: url('https://i.imgur.com/ZM6GDGL.png') center/cover no-repeat;
 }
 
 #app>div.interface.text-2>div.background::before {
