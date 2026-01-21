@@ -28,10 +28,10 @@
 ### ❌ Not Allowed:
 
 - **Don't remove credit** to the original author(s)  
-  Keep a clear mention that your version is a **fork of Obsidian Client**.
+  Keep a clear mention that your version is a **fork of ian Client**.
 
 - **Don't misrepresent** the project as originally yours  
-  Make it obvious that your version is **based on Obsidian Client**.
+  Make it obvious that your version is **based on ian Client**.
 
 - **Do not** use this project for any malicious or commercial intent.
 
@@ -88,7 +88,3 @@ Since the project was dropped midway, there are some known problems you should b
 If you're planning to fork or use this client, feel free to improve on these — PRs are always welcome if this ever gets active again.
 
 ---
-## Still wanna download obsidian client?
-
-check out the [preview build](https://github.com/imnotkoolkid/OBSIDIAN-CLIENT-preview?tab=readme-ov-file#obsidian-client--preview-build)
-> preview build doesn't have the player freezing Bug and is stable to use.
